@@ -1,0 +1,8 @@
+1#Test#Sascha#25-05-2018#Sascha Burgener
+1#1#MP Schraegbank#dsfdfewed#Brust#12#3#
+1#2#LAT Ziehen breit#Dies dient als kleine Beschreibung#Rücken#12#3#
+1#5#Bizeps Curls SZ#Beschreibung dieser Uebung#Bizeps#12#3#
+1#6#Squats#Kniebeugen#Beine#12#3#
+1#7#MP Schulterdrücken#fkldsjf dslfjsdl#Schultern#12#3#
+2#Hallo #jdljadk lasjds#25-05-2018#Sascha Burgener
+2#1#MP Schraegbank#dsfdfewed#Brust#12#3#

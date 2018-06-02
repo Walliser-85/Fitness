@@ -1,0 +1,3 @@
+1#Sascha#Burgener#Bachstrasse 29#3931#Lalden#sascha.burgi97@hotmail.com
+2#Steve#Burgener#Bachstrasse 29#3931#Lalden#steve.burgener@gmx.ch
+3#Daniela#Burgener#Bachstrasse 20#3931#Lalden#daniela.burgener@hotmail.com
